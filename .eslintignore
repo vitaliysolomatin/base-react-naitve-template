@@ -1,0 +1,10 @@
+android/**
+ios/**
+**/*.test.js
+node_modules
+dist
+coverage
+
+metro.config.js
+babel.config.js
+jest.config.js
